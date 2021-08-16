@@ -80,4 +80,3 @@ df4 = pd.concat(u)
 
 # 所有合并后的图号材料清单
 df4.to_excel(r"C:\Users\Administrator\Desktop\{0}.xlsx".format("AAA"))
-
